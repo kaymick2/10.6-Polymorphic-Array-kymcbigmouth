@@ -1,6 +1,10 @@
-public class shape{
+public class shape {
 
-  public double area (double length){
+  public double area(double length) {
+    return length;
+  }
+
+  public double perimeter(double length) {
     return length;
   }
 }
